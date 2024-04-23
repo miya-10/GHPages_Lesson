@@ -1,12 +1,12 @@
 
 ---
-title: "ここにページのタイトル"
-author: default
+title: "カステラの作り方"
+author: miya-10
 permalink: /
 ---
 
 
-
+##材料
 
 
 
