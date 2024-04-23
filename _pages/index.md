@@ -1,7 +1,7 @@
 
 ---
 title: "カステラの作り方"
-author: miya-10
+author: default
 permalink: /
 ---
 
