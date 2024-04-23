@@ -1,4 +1,3 @@
-
 ---
 title: "カステラの作り方"
 author: default
